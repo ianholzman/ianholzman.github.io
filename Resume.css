@@ -29,11 +29,20 @@
 }
 
 .u-section-1 .u-text-1 {
-  margin: 69px auto 0 0;
+  margin: 0 auto 0 0;
 }
 
 .u-section-1 .u-text-2 {
   margin: 20px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 27px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
 }
 
 @media (max-width: 1199px) {

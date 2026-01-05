@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 706px;
+  min-height: 714px;
 }
 
 .u-section-1 .u-text-1 {
@@ -35,7 +35,7 @@
   grid-auto-columns: calc(33.3333% - 17.3333px);
   grid-template-columns: repeat(3, calc(33.3333% - 17.3333px));
   --gap: 26px;
-  min-height: 249px;
+  min-height: 257px;
 }
 
 .u-section-1 .u-list-item-1 {
